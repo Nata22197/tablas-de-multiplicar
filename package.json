@@ -1,0 +1,16 @@
+{
+  "name": "01-bases-node",
+  "version": "2.0.0",
+  "description": "Esta es una aplicacion de lineas de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natanael Acosta",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  },
+  "devDependencies": {}
+}
